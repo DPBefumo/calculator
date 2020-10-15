@@ -17,6 +17,6 @@ This project was to help mez understand how to use JavaScript functions and algo
 
 ## Resources 
 
-* Two ways to evaluate mathematical expressions are [eval](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval)or using the [math.js](http://mathjs.org/) library.
+* Two ways to evaluate mathematical expressions are [eval](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval) or using the [math.js](http://mathjs.org/) library.
 * Using [try-catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
 * [Order of operations](https://en.wikipedia.org/wiki/Order_of_operations) must be honored.
