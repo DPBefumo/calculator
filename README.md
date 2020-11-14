@@ -4,7 +4,7 @@
 
 This project was to help me understand how to use JavaScript functions and algorithms. It also showed me how to work with the DOM and how it can respond to user input.  The template of the calculator and design were built using HTML and CSS.  The functionality of the calculator was built to react to click events on each calculator button and update the display. 
 
-## To Dos
+## ToDos
 
 * Show an error message when invalid input is given. 
 * Disallow invalid input.
@@ -14,6 +14,7 @@ This project was to help me understand how to use JavaScript functions and algor
 * Add a button for calculating the modulo of two numbers.
 * Add a button for raising a number by a power.
 * Add parentheses to control the order of evaluation.
+* Add more styling to the page to increase the UI
 
 ## Resources 
 
